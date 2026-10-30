@@ -16,7 +16,7 @@ Replace this paragraph with a short description of your project: what it does, w
 - Easy to configure and extend
 - Ready for deployment
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack ##
 
 - **Node.js & npm** – runtime and package management
 - **JavaScript / TypeScript** – keep the language you use
