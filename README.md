@@ -32,7 +32,7 @@ project-name/
 └── README.md
 ```
 
-## 🚀 Getting Started
+## 🚀 Getting Started ##
 
 #### Prerequisites
 
