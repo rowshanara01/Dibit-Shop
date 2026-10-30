@@ -34,7 +34,7 @@ project-name/
 
 ## 🚀 Getting Started ##
 
-#### Prerequisites
+#### Prerequisites ####
 
 - [Node.js](https://nodejs.org/) (v18 or higher recommended)
 - npm
