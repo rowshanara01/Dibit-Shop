@@ -39,7 +39,7 @@ project-name/
 - [Node.js](https://nodejs.org/) (v18 or higher recommended)
 - npm
 
-### Installation
+### Installation ####
 
 1. Clone the repository
 
