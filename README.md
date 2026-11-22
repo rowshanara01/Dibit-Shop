@@ -76,8 +76,7 @@ project-name/
 ```bash
 npm run build
 ```
-
-## 🔐 Environment Variables ##
+ Environment Variables ##
 
 If your project needs environment variables, create a `.env` file in the root folder:
 
