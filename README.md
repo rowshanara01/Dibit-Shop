@@ -111,7 +111,7 @@ yourFunction();
 
 Remove this section if the project is not an npm package.
 
-## 🌐 Deployment
+#### Deployment
 
 This project can be deployed for free on **Vercel**, **Render** or **Railway**. Connect your GitHub repository, add your environment variables, and every push to the `main` branch will deploy automatically.
 
