@@ -95,7 +95,7 @@ PORT=5000
 | `npm run build` | Create a production build          |
 | `npm test`      | Run the tests                      |
 
-## 📦 Use as a Package (optional)
+##  Use as a Package (optional)
 
 If this project is published to npm, install and use it like this:
 
