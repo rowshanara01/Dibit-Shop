@@ -87,7 +87,7 @@ PORT=5000
 
 > Never commit your `.env` file to GitHub. Make sure it is listed in `.gitignore`.
 
-## 📜 Available Scripts
+#### 📜 Available Scripts
 
 | Command         | Description                        |
 | --------------- | ---------------------------------- |
